@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+    border: 1PX solid #eee;
+    cursor: pointer;
+}
+
+#botao{
+    background: rgb(12, 175, 12);
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+    margin: auto;
+}
+
+#botao:hover{
+    background: rgb(103, 235, 103);
+}
+ 
+#area-resultado{
+    display: none;
+}
